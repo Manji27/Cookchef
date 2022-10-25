@@ -1,0 +1,11 @@
+.searchBar {
+  padding: 10px 15px;
+  border: 2px solid var(--gray-2);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  input {
+    outline: 0;
+    border: 0;
+  }
+}
